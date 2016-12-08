@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/mamta1010/Chanteja#readme",
   "dependencies": {
+    "auth0-api-jwt-rsa-validation": "0.0.1",
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
+    "express-jwt": "^5.1.0",
     "mongoose": "^4.7.2",
     "morgan": "^1.7.0"
   }
